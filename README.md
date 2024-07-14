@@ -63,6 +63,10 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 
 ![Login Screen](https://github.com/user-attachments/assets/fad043b6-d89d-4559-a273-d5fd7c81ea22)
 
+### Enter PIN
+
+![Enter PIN](https://github.com/user-attachments/assets/6fc057df-5f4d-4a8a-a3c0-75e44c72fc77)
+
 ### Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/3328cef9-58d0-4da3-b7d8-ae66381aa2f3)
