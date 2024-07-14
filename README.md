@@ -43,7 +43,7 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/WOOW_ATM_Project.git
+    git clone https://github.com/amisoumyadeepdas/Project_WOOW-ATM.git
     cd WOOW_ATM_Project
     ```
 
