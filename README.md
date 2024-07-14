@@ -65,7 +65,7 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 
 ### Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/fcead58e-d724-42b1-a898-3ad2ec7e3711)
+![Dashboard](https://github.com/user-attachments/assets/3328cef9-58d0-4da3-b7d8-ae66381aa2f3)
 
 ### Credit Operation
 
