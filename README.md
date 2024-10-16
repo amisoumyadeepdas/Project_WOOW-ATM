@@ -18,6 +18,8 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
   - Credit
   - Debit
   - Withdrawal
+  - Transfer
+  - Block ATM Card
 - Oracle 11g RDBMS for storing account details
 - Assumes user accounts are pre-created by bank managers
 
@@ -67,13 +69,19 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 
 ![Enter PIN](https://github.com/user-attachments/assets/6fc057df-5f4d-4a8a-a3c0-75e44c72fc77)
 
+### Set PIN
+
+![Set PIN](https://github.com/user-attachments/assets/6fc057df-5f4d-4a8a-a3c0-75e44c72fc77)
+![Set PIN](https://github.com/user-attachments/assets/6fc057df-5f4d-4a8a-a3c0-75e44c72fc77)
+
 ### Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/3328cef9-58d0-4da3-b7d8-ae66381aa2f3)
 
-### Credit Operation
+### Transfer Operation
 
-![Credit Operation](screenshots/credit_operation.png)
+![Transfer Operation](screenshots/credit_operation.png)
+![Transfer Operation](screenshots/credit_operation.png)
 
 ### Debit Operation
 
@@ -82,6 +90,15 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 ### Withdrawal Operation
 
 ![Withdrawal Operation](screenshots/withdrawal_operation.png)
+
+### Balance Check
+
+![Balance Operation](screenshots/withdrawal_operation.png)
+
+### Block Operation
+
+![Block Operation](screenshots/withdrawal_operation.png)
+![Block Operation](screenshots/withdrawal_operation.png)
 
 ---
 
