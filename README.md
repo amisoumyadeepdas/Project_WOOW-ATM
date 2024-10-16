@@ -80,25 +80,29 @@ This repository contains an Automated Teller Machine (ATM) simulation project im
 
 ### Transfer Operation
 
-![Transfer Operation](screenshots/credit_operation.png)
-![Transfer Operation](screenshots/credit_operation.png)
+![Transfer Operation](https://github.com/user-attachments/assets/94b7dbff-1fb8-4f89-a494-4d4ef65706ec)
+![Transfer Operation](https://github.com/user-attachments/assets/c4350382-5657-43d6-8f2a-f15623fee41f)
 
 ### Debit Operation
 
-![Debit Operation](screenshots/debit_operation.png)
+![Debit Operation](https://github.com/user-attachments/assets/9f13badc-f62a-459b-ae67-fd061d9909b8)
 
-### Withdrawal Operation
+### Credit Operation
 
-![Withdrawal Operation](screenshots/withdrawal_operation.png)
+![Withdrawal Operation](https://github.com/user-attachments/assets/60117625-6b11-4abc-a62f-a2054d1a929a)
 
 ### Balance Check
 
-![Balance Operation](screenshots/withdrawal_operation.png)
+![Balance Operation](https://github.com/user-attachments/assets/bdc69fdf-817c-4ae2-b001-7f1d1bb7e1fc)
 
 ### Block Operation
 
-![Block Operation](screenshots/withdrawal_operation.png)
-![Block Operation](screenshots/withdrawal_operation.png)
+![Block Operation](https://github.com/user-attachments/assets/8393034b-3a01-4e41-9a4c-0c256d338e50)
+
+### Transaction History
+
+![Block Operation](https://github.com/user-attachments/assets/9799f596-4f20-4521-9f1d-548565379139)
+
 
 ---
 
